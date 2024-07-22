@@ -1,0 +1,16 @@
+{
+  "name": "clear-node-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "bin": {
+    "clear-node-modules": "app.js"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Artyom Ugryumov",
+  "license": "ISC"
+}
